@@ -1,0 +1,19 @@
+{
+  "name": "malifaux_images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitkamath/mfaux-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitkamath/mfaux-images/issues"
+  },
+  "homepage": "https://github.com/sumitkamath/mfaux-images#readme"
+}
